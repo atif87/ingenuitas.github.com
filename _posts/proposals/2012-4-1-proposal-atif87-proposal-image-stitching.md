@@ -13,7 +13,7 @@ Alias: atif87
 
 Project Title: Panrama/Image Stitching
 
-Overview: create a system that stitches successive images taken from an assembly line into a single image. I want to extend this capability to other applications such as a panorama stitching system
+Overview: Create a system that stitches successive images taken from an assembly line into a single image. I want to extend this capability to other applications such as a panorama stitching system. I am also interested in the other projects mentioned in your sites including Intermediate extensions to SimpleCV. I am really interested in the contribution towards simplecv libraries. I have made some games in Computer Graphics. I have also done projects in Opencv for the segmentations of cricket video. I have a research background and have a publications in IEEE conference. 
 
 Motivation:
 
@@ -33,12 +33,12 @@ Timeline:
 April 20 to May 25:
 * Start to talk with the mentor(s) about the project.
 * Learning from them about SimpleCV.
-* Find and analyse the current image stitching algorithms. 
+* Find, analyse and implement the current image stitching algorithms. 
 * Learning to code for SimpleCV. 
 
 May 25 to June 30:
 * Start of the implementation of the Ideas,
-* Compare the results with current Image stitiching algorithm implemented in matlab. 
+* Compare the results with current Image stitiching algorithm implemented. 
 
 July 1 to July 10:
 * Preparing an overview for the mid-term evaluation
